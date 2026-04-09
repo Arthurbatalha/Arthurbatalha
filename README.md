@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="assets/gatinhodepote.jpeg">
+  <a href="https://www.youtube.com/watch?v=3mbBbFH9fAg">
     <img src="assets/gatinhodepote.jpeg" alt="gatinhodepote header" width="400" />
   </a>
 </p>
