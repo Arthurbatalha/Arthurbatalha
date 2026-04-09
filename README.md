@@ -1,10 +1,12 @@
-<div align="center">
-    <img src="" alt="gatinhodepote header">
-</div>
+<p align="center">
+  <a href="assets/gatinhodepote.jpeg">
+    <img src="assets/gatinhodepote.jpeg" alt="gatinhodepote header" width="400" />
+  </a>
+</p>
 <br>
-<p align=center>
+<p align="center">
   <a href="https://www.instagram.com/arthur_batalha026" onclick="window.open(this.href, '_blank'); return false;">
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"></a>&nbsp;
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram"></a>&nbsp;
 </p>
 
 ### Sobre mim (se alguem ler isso):
