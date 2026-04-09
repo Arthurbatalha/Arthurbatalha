@@ -17,7 +17,7 @@
  - Aniversário `26/11/2002`
 
 <hr/>
-<h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
+<h2 align="center">Linguagem</h2>
 <br/>
 
 <table>
