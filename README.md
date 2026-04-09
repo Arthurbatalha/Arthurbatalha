@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="assets/gatinhodepote.jpeg">
+  <a href="https://www.youtube.com/watch?v=dbEY-JVHJWg&list=RDMM&index=2">
     <img src="assets/gatinhodepote.jpeg" alt="gatinhodepote header" width="400" />
   </a>
 </p>
@@ -13,11 +13,11 @@
 
  - Meu nome é `Arthur Batalha`
  - Nick `Gatinho de pote`
- - Estado `Sergipe `
+ - Estado `Sergipe`
  - Aniversário `26/11/2002`
 
 <hr/>
-<h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
+<h2 align="center">Linguagens</h2>
 <br/>
 
 <table>
