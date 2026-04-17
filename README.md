@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dbEY-JVHJWg&list=RDMM&index=2">
-    <img src="assets/gatinhodepote.jpeg" alt="gatinhodepote header" width="400" />
+    <img src="assets/gatinhosentado.jpeg" alt="gatinhodepote header" width="400" />
   </a>
 </p>
 <br>
