@@ -9,7 +9,7 @@
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram"></a>&nbsp;
 </p>
 
-### Sobre mim (se alguem ler isso):
+### Sobre mim:
 
  - Meu nome é `Arthur Batalha`
  - Nick `Gatinho de pote`
