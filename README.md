@@ -25,7 +25,7 @@
     />
   </picture>
 </p>
-###Sobre mim:###
+Sobre mim:
 
  - Meu nome é `Arthur Batalha`
  - Nick `Gatinho de pote`
