@@ -9,6 +9,22 @@
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram"></a>&nbsp;
 </p>
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Arthurbatalha/Arthurbatalha/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Arthurbatalha/Arthurbatalha/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution snake"
+      src="https://raw.githubusercontent.com/Arthurbatalha/Arthurbatalha/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 ### Sobre mim:
 
  - Meu nome é `Arthur Batalha`
